@@ -1,0 +1,30 @@
+Jailson é dono de um cinema com duas salas.
+
+
+
+A sala Alpha possui 140 lugares divididos em 6 fileiras (A, B, C, D, E, F) com mais 12 assentos para pessoas com deficiência.
+A sala Beta possui 120 lugares divididos em 5 fileiras (A, B, C, D, E) com mais 6 lugares para pessoas com deficiência.
+
+
+
+Haverá uma sessão na Sala Alpha de "As Branquelas" e outra sessão na Sala Beta de "A Chegada".
+
+
+
+Construa um programa em que uma pessoa compre um ingresso para qualquer uma das salas e possa escolher a fileira em que vai sentar.
+
+
+
+O programa deve perguntar, em algum momento, o nome do usuário.
+
+
+
+Uma vez que o assento seja escolhido, é necessário que o programa exiba quantos lugares ainda estão disponíveis no total e também em quais fileiras.
+
+
+
+É importante que o comprador possa escolher a quantidade de ingressos que quer comprar e que ele não possa comprar mais ingressos do que a fileira tenha disponível.
+
+
+
+Ao final, o programa deve exibir a mensagem "[COMPRADOR], seus ingressos foram comprados com sucesso. Aproveite a pipoca grátis e tenha um bom filme.".	
